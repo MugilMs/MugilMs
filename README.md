@@ -55,12 +55,15 @@
 ---
 
 ### 📊 GitHub Analytics  
+
 <p align="center">
   <img width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37"/>
-  
+    src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&bg_color=0D0D0D&title_color=D4AF37&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37&include_all_commits=true" 
+    style="border-radius: 10px;" />
+
   <img width="48%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=MugilMs&background=000000&border=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"/>
+    src="https://github-readme-streak-stats.herokuapp.com?user=MugilMs&background=0D0D0D&border=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"  
+    style="border-radius: 10px;" />
 </p>
 
 ---
