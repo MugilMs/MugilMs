@@ -58,5 +58,8 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MugilMs&theme=darkhub&margin-w=15"/>
+</p>
 
 <p align="center">✨ “Code. Secure. Innovate.” ✨</p>
