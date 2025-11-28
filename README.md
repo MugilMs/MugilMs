@@ -15,6 +15,7 @@
     alt="Typing SVG" 
   />
 </p>
+
 [![Brainleap App](https://img.shields.io/badge/Brainleap_App-Contributor-D4AF37?style=for-the-badge)](https://github.com/Britojaison/brainleap-app)
 [![Brainleap Server](https://img.shields.io/badge/Brainleap_Server-Contributor-D4AF37?style=for-the-badge)](https://github.com/Britojaison/brainleap-server)
 
