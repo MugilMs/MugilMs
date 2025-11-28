@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m <a href="https://github.com/MugilMs" target="_blank">Mugil</a></h1>
+<h1 align="center">👋 Hi, I’m <a href="https://github.com/MugilMs" target="_blank">Mugil Ms</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=500&lines=Flutter+%7C+React+Developer;Cybersecurity+Enthusiast;Blockchain+Explorer;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
