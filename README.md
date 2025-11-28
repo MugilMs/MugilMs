@@ -3,8 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=500&lines=Flutter+%7C+React+Developer;Cybersecurity+Enthusiast;Blockchain+Explorer;Turning+Ideas+Into+Digital+Solutions;Sunset+Inspired+Code+Journey" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="./IMG_9392.JPG" alt="Mugil Banner" width="100%" />
+</p>
 
----
 
 ### 🚀 About Me  
 - 💻 I build high-performance apps using **Flutter & React**  
