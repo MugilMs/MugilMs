@@ -12,7 +12,6 @@
 - 🔗 Exploring **blockchain** to innovate smarter, scalable solutions  
 - 🧠 I thrive on solving real-world problems through clean code & powerful UX  
 
----
 
 ### 🛠️ Tech Stack  
 
