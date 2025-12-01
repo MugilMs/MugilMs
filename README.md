@@ -58,6 +58,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&include_all_commits=true&hide_title=true&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37" width="45%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MugilMs&hide_title=true&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5" width="45%" />
 </p>
 
