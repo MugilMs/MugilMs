@@ -68,10 +68,11 @@
   />
 
   <!-- STREAK -->
-  <img 
-    src="https://streak-stats.demolab.com?user=MugilMs&hide_title=true&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"
-    width="45%" 
-  />
+  <img
+  src="https://github-readme-streak-stats-five.vercel.app?user=MugilMs&hide_title=true&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"
+  width="45%"
+/>
+
 
 </p>
 
