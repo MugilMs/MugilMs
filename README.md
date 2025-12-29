@@ -12,22 +12,24 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&color=F5E6C5&background=000000&lines=Flutter+%7C+React+Developer;Cybersecurity+Enthusiast;Blockchain+Explorer;Why+Not+You%3F;Code+Silently%2C+Impact+Loudly" 
-    alt="Typing SVG" 
+    alt="Typing SVG"
   />
 </p>
 
 ---
 
 ### ⚔️ About Me  
-- ✨ I build high-performance apps using **Flutter & React**  
-- 🛡 Focused on **Cybersecurity precision & integrity**  
-- 🔗 Exploring **Blockchain** for transformational systems  
-- 🌅 Calm desert focus • Samurai discipline • Warrior execution  
+
+- ✨ Building high-performance apps with **Flutter & React**  
+- 🛡 Passionate about **cybersecurity precision & integrity**  
+- 🔗 Exploring **Blockchain** for transparent systems  
+- 🌅 Calm execution • Samurai mindset • Warrior discipline  
 - 🚀 I code for *impact*, not attention  
 
 ---
 
 ### 🛠️ Tech Stack  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,aws,c,dart,docker,figma,firebase,flutter,git,graphql,html,java,js,kotlin,linux,nodejs,py,react,swift,tailwind,ts" />
 </p>
@@ -45,10 +47,11 @@
   </a>
 </p>
 
-💡 **I contribute to BrainLeap**, an AI-driven cognitive enhancement platform.  
-- 📱 Flutter UI & feature implementation  
-- 🔌 Node.js API integration support  
-- 🎯 Performance improvements through collaborative engineering  
+💡 **I contribute to BrainLeap — an AI-driven cognitive enhancement platform.**  
+
+- 📱 Flutter UI & feature development  
+- 🔌 Node.js API integration  
+- 🎯 Performance tuning & optimization  
 
 > “Contribution isn’t about credit — it’s about impact.” ⚔️  
 
@@ -57,22 +60,25 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
+
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&cache_seconds=86400&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37" 
+    src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&cache_seconds=7200&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37" 
     width="45%" 
   />
-  
+
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=MugilMs&hide_title=true&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5" 
+    src="https://streak-stats.demolab.com?user=MugilMs&hide_title=true&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"
     width="45%" 
   />
+
 </p>
 
 ---
 
-### 🗺️ Contribution Graph  
+### 🗺️ Contribution Activity  
+
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MugilMs&bg_color=000000&color=F5E6C5&line=D4AF37&point=FFD700&area=true&hide_border=true"
   />
 </p>
@@ -80,6 +86,7 @@
 ---
 
 ### 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mugilarasan-a-6b75a128a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000"/>
