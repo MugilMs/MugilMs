@@ -21,9 +21,9 @@
 ### ⚔️ About Me  
 
 - ✨ Building high-performance apps with **Flutter & React**  
-- 🛡 Passionate about **cybersecurity precision & integrity**  
+- 🛡 Focused on **cybersecurity precision & integrity**  
 - 🔗 Exploring **Blockchain** for transparent systems  
-- 🌅 Calm execution • Samurai mindset • Warrior discipline  
+- 🌅 Calm execution • Samurai discipline • Warrior mindset  
 - 🚀 I code for *impact*, not attention  
 
 ---
@@ -47,10 +47,10 @@
   </a>
 </p>
 
-💡 **I contribute to BrainLeap — an AI-driven cognitive enhancement platform.**  
+💡 **I contribute to BrainLeap — an AI-driven cognitive enhancement platform.**
 
-- 📱 Flutter UI & feature development  
-- 🔌 Node.js API integration  
+- 📱 Flutter UI & features  
+- 🔌 Node.js API integrations  
 - 🎯 Performance tuning & optimization  
 
 > “Contribution isn’t about credit — it’s about impact.” ⚔️  
@@ -61,11 +61,13 @@
 
 <p align="center">
 
+  <!-- STATS (stable mirror) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&cache_seconds=7200&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MugilMs&show_icons=true&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37" 
     width="45%" 
   />
 
+  <!-- STREAK -->
   <img 
     src="https://streak-stats.demolab.com?user=MugilMs&hide_title=true&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"
     width="45%" 
