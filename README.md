@@ -69,23 +69,27 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MugilMs&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFD700&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37"
+    src="./profile/github-stats.svg"
     width="48%"
     alt="Mugil's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MugilMs&layout=compact&langs_count=8&bg_color=000000&title_color=FFD700&text_color=F5E6C5&border_color=D4AF37"
+    src="./profile/top-langs.svg"
     width="48%"
     alt="Top Languages"
   />
 
 </p>
+
+---
 
 ---
 
