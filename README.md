@@ -93,17 +93,7 @@
 
 ---
 
-### 🗺️ Contribution Activity
 
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MugilMs&bg_color=000000&color=F5E6C5&line=D4AF37&point=FFD700&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-
-</p>
 
 ---
 
